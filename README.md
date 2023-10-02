@@ -8,7 +8,7 @@ The official test server is for public use now. But we want users to make a reas
 2. Use the `!testauth` command with your GitHub username like `!testauth godmode`. When you first log in you won't be able to zone, interact with NPCs or players.
 3. The command will output a sequence of letters and numbers.
 4. Visit the [Issues page](https://github.com/EdenServer/testserver-auth/issues). Make sure you are signed in and comment on an existing issue with the code output by the `!testauth` command.
-5. Within 30 seconds your character should receive a message in game that your account has been authorized.
+5. Within 30 seconds the server should have authorized your account if you entered the code correctly. It will not notify you if autborization has failed or passed. you will need to relog or zone to use commands.
 
 # Troubleshooting
 
