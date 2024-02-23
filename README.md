@@ -17,3 +17,6 @@ Most likely, the system has determined you to be an inactive tester. Make sure t
 
 **I'm trying to authenticate but it's not working.**
 Make sure that you are typing the right GitHub username with the `!testauth` command and the right authentication code on the [Issues page](https://github.com/EdenServer/testserver-auth/issues).
+
+**I lost the auth code**
+use "!testauth <github_username> 1" in game to force a new auth code
